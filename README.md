@@ -7,7 +7,7 @@ atividade em sala, aula de computação em Nuvem
 
 - $ pip install -r requeriments.txt
 
-- // ignorar $ django-admin startproject djangoapp
+- // ignorar //## $ django-admin startproject djangoapp
 
 - $ docker build -t djangoapp_image:v1 .
 
