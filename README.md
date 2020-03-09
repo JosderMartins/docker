@@ -5,9 +5,9 @@ atividade em sala, aula de computação em Nuvem
 
 - inicie com o comando $ souce venv/bin/activate
 
-- pip install -r requeriments.txt
+- $ pip install -r requeriments.txt
 
-- $ django-admin startproject djangoapp
+- // ignorar $ django-admin startproject djangoapp
 
 - $ docker build -t djangoapp_image:v1 .
 
